@@ -1,4 +1,4 @@
-class Car:
+class Plane:
     def __init__(self, year, make, speed):
         self.__year_model = year
         self.__make = make
